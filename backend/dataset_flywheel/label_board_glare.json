@@ -1,0 +1,22 @@
+{
+    "board_id": "board_glare",
+    "visual_detections": [
+        {
+            "id": "DEF_board_glare_CS",
+            "defect_type": "component_skew",
+            "confidence": 0.969,
+            "coordinates": [
+                800,
+                200,
+                840,
+                260
+            ],
+            "severity": "warning",
+            "resolved_by_recapture": true
+        }
+    ],
+    "etest_status": "PASS",
+    "flywheel_label": "FALSE_POSITIVE",
+    "triage_applied": false,
+    "triage_action": null
+}

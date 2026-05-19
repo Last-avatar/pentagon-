@@ -1,0 +1,22 @@
+{
+    "board_id": "BRD-X5261",
+    "visual_detections": [
+        {
+            "id": "DEF_BRD-X5261_MV",
+            "defect_type": "missing_via",
+            "confidence": 0.974,
+            "coordinates": [
+                100,
+                950,
+                115,
+                965
+            ],
+            "severity": "critical",
+            "resolved_by_recapture": true
+        }
+    ],
+    "etest_status": "PASS",
+    "flywheel_label": "FALSE_POSITIVE",
+    "triage_applied": false,
+    "triage_action": null
+}

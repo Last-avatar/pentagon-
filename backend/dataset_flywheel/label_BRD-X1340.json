@@ -1,0 +1,22 @@
+{
+    "board_id": "BRD-X1340",
+    "visual_detections": [
+        {
+            "id": "DEF_BRD-X1340_HC",
+            "defect_type": "hairline_crack",
+            "confidence": 0.986,
+            "coordinates": [
+                1200,
+                850,
+                1250,
+                860
+            ],
+            "severity": "critical",
+            "resolved_by_recapture": true
+        }
+    ],
+    "etest_status": "PASS",
+    "flywheel_label": "FALSE_POSITIVE",
+    "triage_applied": false,
+    "triage_action": null
+}

@@ -1,0 +1,22 @@
+{
+    "board_id": "BRD-X1441",
+    "visual_detections": [
+        {
+            "id": "DEF_BRD-X1441_MV",
+            "defect_type": "missing_via",
+            "confidence": 0.98,
+            "coordinates": [
+                100,
+                950,
+                115,
+                965
+            ],
+            "severity": "critical",
+            "resolved_by_recapture": true
+        }
+    ],
+    "etest_status": "PASS",
+    "flywheel_label": "FALSE_POSITIVE",
+    "triage_applied": false,
+    "triage_action": null
+}

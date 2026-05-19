@@ -1,0 +1,22 @@
+{
+    "board_id": "BRD-X3957",
+    "visual_detections": [
+        {
+            "id": "DEF_BRD-X3957_SB",
+            "defect_type": "solder_bridge",
+            "confidence": 0.988,
+            "coordinates": [
+                450,
+                620,
+                480,
+                640
+            ],
+            "severity": "critical",
+            "resolved_by_recapture": true
+        }
+    ],
+    "etest_status": "PASS",
+    "flywheel_label": "FALSE_POSITIVE",
+    "triage_applied": false,
+    "triage_action": null
+}

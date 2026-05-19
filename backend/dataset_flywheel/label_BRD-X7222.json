@@ -1,0 +1,22 @@
+{
+    "board_id": "BRD-X7222",
+    "visual_detections": [
+        {
+            "id": "DEF_BRD-X7222_SV",
+            "defect_type": "solder_void",
+            "confidence": 0.971,
+            "coordinates": [
+                600,
+                400,
+                620,
+                420
+            ],
+            "severity": "critical",
+            "resolved_by_recapture": true
+        }
+    ],
+    "etest_status": "PASS",
+    "flywheel_label": "FALSE_POSITIVE",
+    "triage_applied": false,
+    "triage_action": null
+}

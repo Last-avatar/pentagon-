@@ -1,0 +1,22 @@
+{
+    "board_id": "B_FP",
+    "visual_detections": [
+        {
+            "id": "D_BRIDGE",
+            "defect_type": "solder_bridge",
+            "confidence": 0.98,
+            "coordinates": [
+                1,
+                1,
+                2,
+                2
+            ],
+            "severity": "critical",
+            "resolved_by_recapture": false
+        }
+    ],
+    "etest_status": "PASS",
+    "flywheel_label": "FALSE_POSITIVE",
+    "triage_applied": false,
+    "triage_action": null
+}
